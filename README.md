@@ -28,7 +28,7 @@ Sculptrix Generator lets you create fully customizable modular STL frameworks â€
 ---
 
 ### ðŸ–¼ Preview
-Screenshots are coming soon...
+![Sculptrix preview](https://kaelinsoll.art/wp-content/uploads/2025/05/sculptrix_screen.jpg)
 
 ---
 
