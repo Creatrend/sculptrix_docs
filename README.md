@@ -10,9 +10,9 @@ Sculptrix Generator lets you create fully customizable modular STL frameworks â€
 
 - Parametric full-body generation (torso, spine, arms, legs)
 - Generate and export STL for individual body elements
-- 3D-printable armatures optimized for sculpting
+- 3D-printable elements optimized for sculpting
 - Modular nodes and snap-fit logic
-- Minimalist interface with real-time preview
+- Minimalist user-friendly interface (soon with real time preview)
 
 ---
 
