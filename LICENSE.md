@@ -1,0 +1,1 @@
+This app is available for free personal use under the CC BY-NC-ND 4.0 license. You may not modify, redistribute, or use the generated STL files commercially. © 2025 Sculptrix / Creatrend. All rights reserved.
