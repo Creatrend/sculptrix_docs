@@ -18,9 +18,15 @@ Sculptrix Generator lets you create fully customizable modular STL frameworks �
 
 ### 🌐 Live Demo
 
-👉 [Try it on Render.com](https://sculptrix.onrender.com)  
+<p align="left">
+  <a href="https://sculptrix.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Try Demo-Click%20Here-blue?style=for-the-badge" alt="Try Demo">
+  </a>
+</p>
+
 > 🕒 **Note**: When running the app on Render.com, the interface may take up to **30 seconds to load** (cold start).  
-> Please be patient and do not close the black window
+> Please be patient and do not close the black window.
+
 > The generating of the full body takes about 10-20 seconds — please be patient, the model is being generated.
 
 *(private STL usage only — not for redistribution)*
