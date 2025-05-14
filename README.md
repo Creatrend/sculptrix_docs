@@ -2,7 +2,7 @@
 
 **Generate skeletons for 3D printing.**
 
-Sculptrix Generator lets you create fully customizable modular STL frameworks — ideal as internal armatures for animation or clay modeling.
+Sculptrix Generator lets you create fully customizable modular STL frameworks — ideal as a drawing reference, internal armatures for animation or clay modeling.
 
 ---
 
