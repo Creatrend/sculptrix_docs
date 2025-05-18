@@ -27,9 +27,9 @@ Sculptrix Generator lets you create fully customizable modular STL frameworks �
 > 🕒 **Note**: When running the app on Render.com, the interface may take up to **30 seconds to load** (cold start).  
 > Please be patient and do not close the black window.
 
-> The generating of the full body takes about 10-20 seconds — please be patient, the model is being generated.
+> The generating of the full body takes about 10-20 seconds - please be patient, the model is being generated.
 
-*(private STL usage only — not for redistribution)*
+*(private STL usage only - not for redistribution)*
 
 ---
 
@@ -44,4 +44,4 @@ This project is licensed under
 **Creative Commons BY-NC-ND 4.0**  
 *(non-commercial, no redistribution or modification allowed)*
 
-© 2025 [Kaelin Soll](https://kaelinsoll.art) — All rights reserved.
+© 2025 [Kaelin Soll](https://kaelinsoll.art) - All rights reserved.
